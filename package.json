@@ -1,0 +1,19 @@
+{
+  "name": "ejerciciosdom",
+  "version": "1.0.0",
+  "description": "commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "author": "Daniela",
+  "license": "ISC",
+  "devDependencies": {
+    "@commitlint/cli": "^17.7.2",
+    "@commitlint/config-conventional": "^17.7.0",
+    "eslint": "^8.51.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^14.0.1"
+  }
+}
